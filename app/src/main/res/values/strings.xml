@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CarMaster</string>
+    <string name="b_port">蓝牙串口状态</string>
+    <string name="button_1">方向键控制</string>
+    <string name="button_2">重力控制</string>
+    <string name="button_3">语音控制</string>
+    <string name="button4">手势控制</string>
+    <string name="button0">连接</string>
+    <string name="button00">断开</string>
+</resources>
